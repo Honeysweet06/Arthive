@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100">
+  <rect width="900" height="1100" fill="#eee2c9"/>
+  <rect x="88" y="68" width="724" height="964" fill="#465c56"/>
+  <path d="M450 190c-170 130-215 292-152 445 38 93 100 149 152 183 52-34 114-90 152-183 63-153 18-315-152-445Z" fill="#d2ac70"/>
+  <path d="M450 250v480M450 415c-80-93-144-101-201-89m201 170c80-92 144-100 201-88" fill="none" stroke="#465c56" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="249" cy="326" r="25" fill="#9e4f47"/><circle cx="651" cy="497" r="25" fill="#9e4f47"/>
+  <text x="450" y="790" text-anchor="middle" fill="#f2e7d4" font-family="Georgia,serif" font-size="57">Island Fables</text>
+  <text x="450" y="852" text-anchor="middle" fill="#e1c999" font-family="Arial,sans-serif" font-size="17" letter-spacing="5">FICTIONAL DEMONSTRATION STORIES</text>
+  <text x="450" y="935" text-anchor="middle" fill="#f2e7d4" font-family="Arial,sans-serif" font-size="17">ART HIVE SAMPLE EDITION</text>
+</svg>
